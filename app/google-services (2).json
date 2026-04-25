@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "167496695116",
+    "firebase_url": "https://sharploter-2eb34-default-rtdb.firebaseio.com",
+    "project_id": "sharploter-2eb34",
+    "storage_bucket": "sharploter-2eb34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167496695116:android:f152a574925111349fe3e9",
+        "android_client_info": {
+          "package_name": "com.sharploter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw6qBLIi2s7PLcwxshXRmUzf2aMIkuHjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
